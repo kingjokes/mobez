@@ -1,4 +1,7 @@
 <x-app>
+<x-slot:title>
+        FAQ | Fashion by Mobez
+    </x-slot>
  <main>
     <div class="mb-5 pb-4"></div>
     <section class="container mw-930 lh-30">
